@@ -15,7 +15,7 @@
     "content_scripts": [
       {
         "js": [
-          "scripts/content.js"
+          "popup/popup.js"
         ],
         "matches": [
           "https://developer.chrome.com/docs/extensions/*",
